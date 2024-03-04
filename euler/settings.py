@@ -64,7 +64,7 @@ WSGI_APPLICATION = 'euler.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dj_euler',
+        'NAME': 'euler',
         'USER': 'postgres',
         'PASSWORD': 'qwerty',
         'HOST': 'pgdb',
