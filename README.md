@@ -7,11 +7,11 @@
 
 Euler is not just your average web project written in Django; it's a journey into the enchanting world of mathematics! 🧮✨
 
-Make with [/darynku](https://github.com/darynku)
+Make with [/sultansagitov](https://github.com/sultansagitov)
 
 ### What's Euler all about?
 
-Euler isn't your typical run-of-the-mill website. It's an educational endeavor, tailor-made with love and precision for the school-going audience. Here, we celebrate the beauty and elegance of mathematics in all its glory. Whether you're a math aficionado or just getting started, Euler has something special in store for you.
+Euler isn't your typical ruan-of-the-mill website. It's an educational endeavor, tailor-made with love and precision for the school-going audience. Here, we celebrate the beauty and elegance of mathematics in all its glory. Whether you're a math aficionado or just getting started, Euler has something special in store for you.
 
 ### Why Euler?
 
